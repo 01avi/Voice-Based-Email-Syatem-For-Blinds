@@ -25,7 +25,7 @@ playback; and for selecting options from the menu, some trigger mechanism or key
 ![login](Screenshots/inbox.png)
 
 ### Sent Page
-![login](Screenshots/SendMail.png)
+![login](Screenshots/sent.png)
 
 ### Send Email Page
-![login](Screenshots/sendemail.png)
+![login](Screenshots/SendeMail.png)
