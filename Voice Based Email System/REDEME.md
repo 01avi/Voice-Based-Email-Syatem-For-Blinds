@@ -16,16 +16,16 @@ playback; and for selecting options from the menu, some trigger mechanism or key
 
 ## Screenshots from the application:
 ### Login Page
-![login](Screenshots/login.PNG)
+![login](Screenshots/login.png)
 
 ### Home Page
-![login](Screenshots/emails.PNG)
+![login](Screenshots/emails.png)
 
 ### Inbox Page
-![login](Screenshots/inbox.PNG)
+![login](Screenshots/inbox.png)
 
 ### Sent Page
-![login](Screenshots/sent.PNG)
+![login](Screenshots/SendMail.png)
 
 ### Send Email Page
-![login](Screenshots/sendemail.PNG)
+![login](Screenshots/sendemail.png)
