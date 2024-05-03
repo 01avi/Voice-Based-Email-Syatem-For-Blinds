@@ -23,6 +23,7 @@ Navigate to the project directory: Once the project is created, navigate to the 
 
 ## Start the development server: 
 React projects come with a built-in development server. Start the server by running:
+### 'npm i'
 ### 'npm start'
 This command starts the development server and opens your default web browser to display your React application. If it doesn't open automatically, you can access it by visiting http://localhost:3000.
 
