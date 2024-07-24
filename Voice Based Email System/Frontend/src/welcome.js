@@ -209,7 +209,7 @@ class Welcome extends React.Component {
             <div className="page">  
                 <div className="logo"></div>
                 <div className="header">
-                    <h2>Welcome To The Voice Based Email System  <p className='copy'>&copy; Aviral & Divanshu</p></h2>
+                    <h2>Welcome To The Voice Based Email System  <p className='copy'>&copy; Aviral</p></h2>
                 </div>
 
                 <div className="content">
