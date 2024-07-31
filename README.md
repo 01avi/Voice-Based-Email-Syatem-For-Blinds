@@ -2,7 +2,7 @@
 # Voice-Based-Email-System
 Empowering the Visually Impaired with Voice-Activated Email System
 
-Our society is filled with individuals facing various challenges, and it's essential to ensure inclusivity in technology. Innovations aimed at making life easier for people with disabilities are crucial. Thus, this project focuses on creating a voice-activated email system specifically designed for the visually impaired. This web-based application will revolutionize how visually impaired individuals interact with emails, providing features such as:
+Our society is filled with individuals facing various challenges, and it's essential to ensure inclusivity in technology. Innovations aimed at making life easier for people with disabilities are crucial. Thus, this project focuses on creating a voice-activated email system specifically designed for the visually impaired. This web-based application will revolutionize how visually impaired individuals interact with emails, providing features such as:-
 
 - Sending Emails: Users can dictate their messages, which will be converted into text.
 - Receiving Emails: Incoming emails will be converted into voice messages for easy listening.
